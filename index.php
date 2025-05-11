@@ -99,6 +99,7 @@ if (isset($_POST['login'])) {
     <input type="password" name="password" placeholder="Password" required>
     <button type="submit" name="login">Login</button>
     <p>Don't have an account? <a href="register.php">Please Register</a></p>
+    <p>dont be afrais</p>
 </form>
 
 </body>
